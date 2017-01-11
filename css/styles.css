@@ -24,3 +24,11 @@ p {
   font-size: 20;
   line-height: .4
 }
+
+body#background {
+background: "img/rigs.jepg" no-repeat 50% 50% fixed;
+background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+-webkit-background-size: cover;
+}
